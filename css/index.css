@@ -9,6 +9,10 @@
   background-color: #71716E;
 }
 
+.navbar {
+  border: 2px solid #FBFF00;
+}
+
 .image {
   max-width:100%;
   max-height:100%;
