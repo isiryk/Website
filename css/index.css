@@ -2,12 +2,11 @@
   background-color: #101010;
   border: 2px solid #FBFF00;
   padding: 20px;
-  height: 100%;
 }
 
 .body{
   background-color: #71716E;
-  height: 100%;
+  height: 99vh;
 }
 
 .navbar {
